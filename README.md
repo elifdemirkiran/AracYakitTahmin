@@ -1,0 +1,1 @@
+Eksik verilerin ortalama degere göre dordurulması, kategorik verilerin tespit edilmesi sonucunda one-hot encoder uygulanması. Aykırı verilerin temzilenmesi sonucunda kirli veri temizlenerek en az hata oranına ulaşılması hedeflendi.
